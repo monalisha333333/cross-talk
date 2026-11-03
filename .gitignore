@@ -224,3 +224,6 @@ checkpoints/
 # ignore pretrained weights
 shared/pretrained_dino/
 **/pretrained_dino/
+# ignore nohup files
+nohup.out
+**/nohup.out
