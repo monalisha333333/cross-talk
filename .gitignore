@@ -218,6 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+<<<<<<< HEAD
 # ignore checkpoint directory
 checkpoints/
 **/checkpoints/
@@ -227,3 +228,5 @@ shared/pretrained_dino/
 # ignore nohup files
 nohup.out
 **/nohup.out
+=======
+>>>>>>> origin/main
